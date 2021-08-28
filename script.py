@@ -6,7 +6,7 @@ I'm A simple Zee5 link downloader bot With Permanent Thumbnail Support💯.
 
 Please send me any Zee5 link, I can upload it to telegram as File/Video.
 
-Currently I'm in beta mode 🥺, If found any bugs, report @TroJanzSupport !
+Currently I'm in beta mode...😈,
 
 Click <i>/help</i> for more details....</b>"""
 
@@ -21,15 +21,15 @@ Click <i>/help</i> for more details....</b>"""
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """⭕️<b>My Name : TroJanZ Zee5 DL</b>
+    ABOUT_TEXT = """⭕️<b>My Name : Zee5 DL</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>My Group :</b> @Tg_Hydra_Galaxy
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/TroJanzHEX/Zee5-Downloader'>Click Here</a>"""
+⭕️<b>Click Here :</b> 👉 <a href='https://t.me/Tg_Hydra_Galaxy'>Click Here</a>"""
 
 
 
@@ -59,7 +59,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     NO_THUMB = "SED😕 No saved thumbnails Found!!"
     
-    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @TroJanzHEX</b>"
+    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @Tg_Hydra_Galaxy</b>"
     
     TIMEOUT = "<b><i>Sorry for the delay. It'll help reduce the flood wait</i> 😇\n\nWait for {} sec and try again.</b>"
     
